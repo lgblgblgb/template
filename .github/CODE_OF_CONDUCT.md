@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# SCCC (Sane Contributor Code of Conduct)
 
 Code of Conduct is a modern notion and a fetish of nowadays, clearly again a
 thing, to over-do certain concepts. Open source was always about doing useful
