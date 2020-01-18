@@ -12,10 +12,10 @@ negative effects, attack/flame people in any way. There is no need to write on
 this more, or create "rules" etc. Rules were always there, we know what are
 those. An open source project is not a flame forum, for sure. That's all.
 
-So in nutshell, the code of conduct: "be nice with the others". Sounds quite
-logical even without any "code of conduct", doesn't it.
+*So in nutshell, the code of conduct: "be nice with the others"*. Sounds quite
+logical, even without any "code of conduct", doesn't it.
 
-Even now, I write WAY too much on this very simple and straightforward idea,
+Now, even I write WAY too much on this very simple and straightforward idea,
 which was ALWAYS THE CASE anyway!
 
 Hopefully everybody agrees :)
