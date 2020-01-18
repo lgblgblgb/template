@@ -13,3 +13,5 @@ clearly negative effects. There is no need to write on this more, or create
 source project is not a flame forum, for sure. That's all.
 
 Hopefully everybody agrees :)
+
+- LGB
