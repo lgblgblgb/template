@@ -7,6 +7,7 @@ OK, seriously, some key points though:
 * Clearly, any help is welcome!
 * Please open an issue ticket first, let's discuss things there first
 * Wait for the decision that "yes, I would love that PR" - or something
+* Please use a clean branch to send from, I don't like having PRs with tons of merging etc included, if you feel you need to play with those, just do it, but then apply your changes to a clean tree again, and send from there
 * Refer to the ticket by #NUM in your PR clearly
 * Do not feel offended if your contribution is denied because it's
 not suitable for the project because of some LOGICAL reason, including
